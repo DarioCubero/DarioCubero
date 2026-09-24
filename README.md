@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a curious and dedicated full stack developer with a strong background in web and mobile development. I thrive in collaborative environments and enjoy designing intuitive user interfaces and building scalable backend systems. My journey has taken me through ERP integrations, RESTful API development, cloud services, and agile teamwork. I work with technologies like Angular, Vue.js, React, ASP.NET, Node.js, SQL, MongoDB, and Azure. Always learning, always building.
+Software Developer specializing in .NET with knowledge of Angular, aiming to transition into a Full Stack role. I have a background in Web and Multiplatform Application Development. My experience includes developing custom solutions across various environments and participating in banking projects based on microservices architectures; these experiences have strengthened my adaptability, attention to technical detail, and commitment to coding best practices. I am dedicated to continuous learning, enjoy teamwork, and am currently open to new opportunities.
 
 ---
 
