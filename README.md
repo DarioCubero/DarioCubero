@@ -14,7 +14,11 @@
 
 ### 👨‍💻 About Me
 
-Software Developer specializing in .NET with knowledge of Angular, aiming to transition into a Full Stack role. I have a background in Web and Multiplatform Application Development. My experience includes developing custom solutions across various environments and participating in banking projects based on microservices architectures; these experiences have strengthened my adaptability, attention to technical detail, and commitment to coding best practices. I am dedicated to continuous learning, enjoy teamwork, and am currently open to new opportunities.
+Backend Developer with over 5 years of experience, specializing in .NET, REST APIs, MVC, and services and solutions built on SQL Server. I also have knowledge of Angular and am continuing to expand my frontend skills, with the goal of transitioning into a Full Stack role.
+
+I have worked on projects within the banking and enterprise sectors, focusing on the development and evolution of applications, migrations from legacy systems, integration with existing systems, and microservices-based architectures.
+
+I am known for my adaptability, attention to technical detail, and commitment to development best practices. I take pride in gaining a deep understanding of the solutions I work on, collaborating effectively with my team, and writing clear, maintainable, and reliable code.
 
 ---
 
